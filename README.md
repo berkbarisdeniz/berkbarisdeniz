@@ -6,7 +6,7 @@
 
                                                
 - 👈🏻 I made projects on C, Python and Java. I know basics already.
-- 👀 I’m interested in full-stack development but for now working on front-end web development! 
-- 🌱 I’m currently learning HTML-CSS-JavaScript-React.js.
+- 👀 I’m interesting in Machine Learning and Big Data Analysis and also Leetcode problems (DSA). 
+- 🌱 I’m currently learning ML basics.
 - 📫 Reach me www.linkedin.com/in/berk-baris-deniz or berkbaris.dnz@gmail.com
 
