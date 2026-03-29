@@ -6,7 +6,7 @@
 
                                                
 - 👈🏻 I made projects on C, Python and Java. I know basics already.
-- 👀 I’m interesting in Machine Learning and Big Data Analysis and also Leetcode problems (DSA). 
-- 🌱 I’m currently learning ML basics.
+- 👀 I’m interesting in Machine Learning and Big Data Analysis, backend and also Leetcode problems (DSA). 
+  
 - 📫 Reach me www.linkedin.com/in/berk-baris-deniz or berkbaris.dnz@gmail.com
 
